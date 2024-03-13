@@ -1,11 +1,11 @@
 Montagem do famoso hambúrguer
 
-1. Hambúrguer
-2. Pão (parte de baixo)
-3. Alface
-4. Cebola
-5. Molho especial
+1. Pão (parte de baixo)
+2. Hambúguer
+3. Hambúrguer
+4. alface
+5. cebola
 6. Queijo
 7. Picles
-8. Hambúrguer
+8. Molho
 9. Pão (parte de cima)
